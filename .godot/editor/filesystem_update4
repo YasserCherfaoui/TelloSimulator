@@ -1,0 +1,4 @@
+res://demo/data/terrain_storage.res
+res://demo/data/texture_list.tres
+res://demo/Demo.tscn
+res://addons/proton_scatter/demos/assets/materials/m_pine_leaves.tres
